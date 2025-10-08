@@ -1,0 +1,8 @@
+N = 97
+
+D = N // 10
+E = N % 10
+
+reversed_N = E * 10 + D
+
+print(reversed_N)

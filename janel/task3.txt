@@ -1,0 +1,6 @@
+a = 10 
+b = 20 
+S = 10 * 20 
+p = 2 * (a+b)
+print(S)bbhegyg
+print(p)
